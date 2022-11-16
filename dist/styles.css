@@ -3,6 +3,18 @@
     padding: 0;
 }
 
+.header{
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 10px;
+}
+
+.navMenu {
+    display: flex;
+    list-style: none;
+    gap: 10px;
+}
+
 .home-page{
     display: flex;
     flex-direction: column;
