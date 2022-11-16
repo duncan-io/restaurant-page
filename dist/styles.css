@@ -37,3 +37,19 @@
     align-items: center;
     justify-content: center;
 }
+
+.contactUs {
+    text-align: center;
+}
+
+.infoWrapper {
+    text-align: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.infoImage {
+    max-width: 400px;
+}
